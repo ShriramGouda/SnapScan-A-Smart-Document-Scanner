@@ -1,24 +1,28 @@
 # SnapScan-A-Smart-Document-Scanner
 SnapScan is a smart document scanning application that captures and digitizes physical documents. It enhances image clarity, stores files in an organized digital format, and includes a basic paper evaluation system. Developed as a college project demonstrating image processing, file management, and user interface design skills.
-# Snapscan - A Smart Document Scanner App
+# SnapScan – A Smart Document Scanner App
 
 ## 📌 Overview
-Snapscan is an intelligent document scanning and paper evaluation system developed as a college academic project. The application digitizes physical documents efficiently, enhances image quality for better readability, and stores them in an organized digital format.
+SnapScan is an intelligent document scanning and evaluation application that digitizes physical documents efficiently. The system improves image clarity, enables organized digital storage, and provides a basic paper evaluation mechanism. This project is developed as an academic demonstration of image processing, file management, and user interface design concepts.
 
 ## 🚀 Key Features
-- Document image capture
-- Image enhancement and clarity improvement
-- Organized digital storage management
-- Basic paper evaluation system
-- Simple and user-friendly interface
+- Document image capture and scanning  
+- Image enhancement for better readability  
+- Structured digital file storage  
+- Basic paper evaluation system  
+- Simple and user-friendly interface  
 
 ## 🛠️ Technologies Used
-- Image Processing Techniques
-- File Management System
-- User Interface Design Concepts
+- Image Processing Techniques  
+- File Management System  
+- User Interface Design Concepts  
 
 ## 🎯 Project Objective
-The main objective of Snapscan is to provide a practical solution for document digitization and evaluation while demonstrating implementation of image processing, structured storage, and UI design principles.
+The main objective of SnapScan is to provide an efficient solution for document digitization and demonstrate practical implementation of image processing and structured data storage.
 
 ## 👨‍💻 Author
-Shriram Gouda
+**Shriram Gouda**
+
+---
+
+⭐ This project is developed as a college academic project.
